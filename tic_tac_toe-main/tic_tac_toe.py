@@ -1,10 +1,3 @@
-"""
-    Written by: Caroline Prevoo
-
-    Date start: 5 april 2021
-
-    Goal      : Tic Tac Toe game
-"""
 
 from flask import Flask, render_template, request, redirect, url_for
 
